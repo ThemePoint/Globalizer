@@ -1,5 +1,5 @@
 {
-  "name": "shopbase/globulizer",
+  "name": "shopbase/globalizer",
   "type": "library",
   "description": "Library to globalize classes",
   "keywords": ["global","php","globalize"],
